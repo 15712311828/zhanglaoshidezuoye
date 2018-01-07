@@ -37,8 +37,9 @@ int main()
     string bagName;
     cin>>bagName;
     int k;
+    cin>>k;
     int sumPrice=0;
-    for(int i=0;i<k;i++)
+    for(int j=0;j<k;j++)
     {
        string cName;
        cin>>cName;
