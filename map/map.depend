@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1515309092 source:d:\documents\github\zhanglaoshidezuoye\map\main.cpp
+	<iostream>
+	<map>
+
