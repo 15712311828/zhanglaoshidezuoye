@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1515326138 source:d:\documents\github\zhanglaoshidezuoye\bag\main.cpp
+	<iostream>
+	<map>
+	<cmath>
+	<vector>
+	<algorithm>
+
