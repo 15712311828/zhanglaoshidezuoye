@@ -28,3 +28,6 @@ int Student::getScore(){
 void Student::print(){
   cout<<name<<"学号为"<<num<<"分数为"<<score<<endl;
 }
+bool Student::operator<(Student & rsh){
+  return this->score<rsh.getScore();
+}

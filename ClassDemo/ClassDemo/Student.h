@@ -11,6 +11,7 @@ public:
   string getNum();
   int getScore();
   void print();
+  bool operator<(Student & rsh);
 private:
   string name;
   string num;
