@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1516029530 source:e:\zhanglaoshidezuoye\classdemo\classdemo\main.cpp
+	<iostream>
+	"Student.h"
+
+1516030012 e:\zhanglaoshidezuoye\classdemo\classdemo\student.h
+	<string>
+
